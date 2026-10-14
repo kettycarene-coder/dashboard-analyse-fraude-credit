@@ -4,6 +4,8 @@ Ce projet présente une démonstration de mon travail de stage,
 avec des données entièrement fictives afin de préserver
 la confidentialité des données de l’entreprise.
 
+## Voir le dashboard
+[👉 Ouvrir le dashboard interactif](./demonstration.html)
 ## Objectif
 
 Faciliter l’exploration des demandes de crédit, la comparaison
